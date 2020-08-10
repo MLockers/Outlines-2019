@@ -1,5 +1,5 @@
-# Outlines 2019
-Doctor Louis's documents in HUMP!
+# HPMUDocs 2019
+**HPMUDocs 2019** is HUMP's document repository written by Doctor Louis in 2019!
 
 ## Copyright
 Copyright (c) Doctor Louis.
